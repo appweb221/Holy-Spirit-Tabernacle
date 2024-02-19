@@ -18,9 +18,6 @@ function ChurchFrançais() {
         <li class="nav-item">
           <a class="nav-link" onclick="churchContactF()" style="cursor: pointer;">Contact</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" aria-disabled="true" onclick="churchMaterialsF" style="cursor: pointer;">Materiels</a>
-        </li>
       </ul>
     </div>
 
@@ -39,9 +36,6 @@ function ChurchFrançais() {
         </li>
         <li class="nav-item">
           <a class="nav-link" onclick="churchContact()" style="cursor: pointer;">Contact</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" aria-disabled="true" onclick="churchMaterials" style="cursor: pointer;">Materiels</a>
         </li>
       </ul>
     </div>`
@@ -64,9 +58,6 @@ function churchContact(){
         </li>
         <li class="nav-item">
           <a class="nav-link" onclick="churchContact()" style="cursor: pointer; background-color: aliceblue; border-radius: 30px;">Contact</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" aria-disabled="true" onclick="churchMaterials" style="cursor: pointer;">Materials</a>
         </li>
       </ul>
     </div>
@@ -99,9 +90,6 @@ function churchContact(){
         <li class="nav-item">
           <a class="nav-link" onclick="churchContact()" style="cursor: pointer; background-color: aliceblue; border-radius: 30px;">Contact</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" aria-disabled="true" onclick="churchMaterials" style="cursor: pointer;">Materials</a>
-        </li>
       </ul>
     </div>`};
 function churchContactF(){
@@ -122,9 +110,6 @@ function churchContactF(){
             </li>
             <li class="nav-item">
               <a class="nav-link" onclick="churchContactF()" style="cursor: pointer; background-color: aliceblue; border-radius: 30px;">Contact</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link disabled" aria-disabled="true" onclick="churchMaterialsF()" style="cursor: pointer;">Materiels</a>
             </li>
           </ul>
         </div>
@@ -157,9 +142,6 @@ function churchContactF(){
             <li class="nav-item">
               <a class="nav-link" onclick="churchContactF()" style="cursor: pointer; background-color: aliceblue; border-radius: 30px;">Contact</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link disabled" aria-disabled="true" onclick="churchMaterialsF()" style="cursor: pointer;">Materiels</a>
-            </li>
           </ul>
         </div>`};
 function churchAbout(){
@@ -180,9 +162,6 @@ function churchAbout(){
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" onclick="churchContact()" style="cursor: pointer;">Contact</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link disabled" aria-disabled="true" onclick="churchMaterials" style="cursor: pointer;">Materials</a>
                 </li>
               </ul>
             </div>
@@ -216,9 +195,6 @@ function churchAbout(){
                 <li class="nav-item">
                   <a class="nav-link" onclick="churchContact()" style="cursor: pointer;">Contact</a>
                 </li>
-                <li class="nav-item">
-                  <a class="nav-link disabled" aria-disabled="true" onclick="churchMaterials" style="cursor: pointer;">Materials</a>
-                </li>
               </ul>
             </div>`};
             function churchAboutF(){
@@ -239,9 +215,6 @@ function churchAbout(){
                     </li>
                     <li class="nav-item">
                       <a class="nav-link" onclick="churchContactF()" style="cursor: pointer;">Contact</a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link disabled" aria-disabled="true" onclick="churchMaterialsF()" style="cursor: pointer;">Materiels</a>
                     </li>
                   </ul>
                 </div>
@@ -274,9 +247,6 @@ function churchAbout(){
                     </li>
                     <li class="nav-item">
                       <a class="nav-link" onclick="churchContactF()" style="cursor: pointer;">Contact</a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link disabled" aria-disabled="true" onclick="churchMaterialsF()" style="cursor: pointer;">Materiels</a>
                     </li>
                   </ul>
                 </div>`};
