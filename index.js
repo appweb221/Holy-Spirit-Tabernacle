@@ -106,7 +106,7 @@ function churchContact(){
 function churchContactF(){
   document.title = "Tabernacle du Saint-Esprit";
         document.body.innerHTML = `<div style="background-image: url(churchb3.jpg); background-size: 100%; margin: 7px 7px 0px 7px;">
-        <div style="text-align: right; margin: 0%; padding: 0%;"><p style="text-align: right; margin: 0%; padding: 0%; color: black;"><a href="index.html" style="color: black; text-decoration: none;">English</a> <a href="indexf.html" style="text-decoration: underline; cursor: pointer;">Français</a></p></div>        
+        <div style="text-align: right; margin: 0%; padding: 0%;"><p style="text-align: right; margin: 0%; padding: 0%; color: black;"><a href="index.html" style="color: black; text-decoration: none;">English</a> <a href="indexf.html" style="text-decoration: underline; cursor: pointer; color: black;">Français</a></p></div>        
         <div style="background-image: url(shining-blue-flow-background_1182-1836.avif);">
         <div style="background-image: url(fire-ice-concept-background-with-fog-godray-3d_115548-21.avif); margin: 0px 20px 0px 0px; padding: 10px;">
         <div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); border-radius: 30px 30px 0px 0px; padding: 5px 5px 0px 5px">
@@ -265,7 +265,7 @@ function churchAbout(){
             function churchAboutF(){
               document.title = "Tabernacle du Saint-Esprit";
                 document.body.innerHTML = `<div style="background-image: url(churchb3.jpg); background-size: 100%; margin: 7px 7px 0px 7px;">
-                <div style="text-align: right; margin: 0%; padding: 0%;"><p style="text-align: right; margin: 0%; padding: 0%; color: black;"><a href="index.html" style="color: black; text-decoration: none;">English</a> <a href="indexf.html" style="text-decoration: underline; cursor: pointer;">Français</a></p></div> 
+                <div style="text-align: right; margin: 0%; padding: 0%;"><p style="text-align: right; margin: 0%; padding: 0%; color: black;"><a href="index.html" style="color: black; text-decoration: none;">English</a> <a href="indexf.html" style="text-decoration: underline; cursor: pointer; color: black;">Français</a></p></div> 
                 <div style="background-image: url(shining-blue-flow-background_1182-1836.avif);">
                 <div style="background-image: url(fire-ice-concept-background-with-fog-godray-3d_115548-21.avif); margin: 0px 20px 0px 0px; padding: 10px;">
                 <div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); border-radius: 30px 30px 0px 0px; padding: 5px 5px 0px 5px">
