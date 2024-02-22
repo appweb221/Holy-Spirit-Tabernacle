@@ -7,7 +7,7 @@ function churchContact(){
 </div>
 <div style="background-image: url(shining-blue-flow-background_1182-1836.avif);">
 <div style="background-image: url(fire-ice-concept-background-with-fog-godray-3d_115548-21.avif); margin: 0px 20px 0px 0px; padding: 10px;">
-<div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); border-radius: 30px 30px 0px 0px; padding: 5px 5px 0px 5px">
+<div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); border-radius: 30px 30px 0px 0px; padding: 15px 15px 0px 15px">
         <h1 id="church-name"><a href="" style="text-decoration: none;">Holy Spirit Tabernacle</a></h1>
     </div>
     <div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); border-radius: 0px 0px 30px 30px;">
@@ -109,7 +109,7 @@ function churchContactF(){
         <div style="text-align: right; margin: 0%; padding: 0%;"><p style="text-align: right; margin: 0%; padding: 0%; color: black;"><a href="index.html" style="color: black; text-decoration: none;">English</a> <a href="indexf.html" style="text-decoration: underline; cursor: pointer; color: black;">Français</a></p></div>        
         <div style="background-image: url(shining-blue-flow-background_1182-1836.avif);">
         <div style="background-image: url(fire-ice-concept-background-with-fog-godray-3d_115548-21.avif); margin: 0px 20px 0px 0px; padding: 10px;">
-        <div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); border-radius: 30px 30px 0px 0px; padding: 5px 5px 0px 5px">
+        <div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); border-radius: 30px 30px 0px 0px; padding: 15px 15px 0px 15px">
             <h1 id="church-name"><a href="indexf.html" style="text-decoration: none; cursor: pointer;">Tabernacle du Saint-Esprit</a></h1>
         </div>
         <div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); border-radius: 0px 0px 30px 30px;">
@@ -214,7 +214,7 @@ function churchAbout(){
         </div>            
         <div style="background-image: url(shining-blue-flow-background_1182-1836.avif);">
         <div style="background-image: url(fire-ice-concept-background-with-fog-godray-3d_115548-21.avif); margin: 0px 20px 0px 0px; padding: 10px;">
-        <div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); border-radius: 30px 30px 0px 0px; padding: 5px 5px 0px 5px">
+        <div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); border-radius: 30px 30px 0px 0px; padding: 15px 15px 0px 15px">
                 <h1 id="church-name"><a href="" style="text-decoration: none;">Holy Spirit Tabernacle</a></h1>
             </div>
             <div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); border-radius: 0px 0px 30px 30px;">
@@ -268,7 +268,7 @@ function churchAbout(){
                 <div style="text-align: right; margin: 0%; padding: 0%;"><p style="text-align: right; margin: 0%; padding: 0%; color: black;"><a href="index.html" style="color: black; text-decoration: none;">English</a> <a href="indexf.html" style="text-decoration: underline; cursor: pointer; color: black;">Français</a></p></div> 
                 <div style="background-image: url(shining-blue-flow-background_1182-1836.avif);">
                 <div style="background-image: url(fire-ice-concept-background-with-fog-godray-3d_115548-21.avif); margin: 0px 20px 0px 0px; padding: 10px;">
-                <div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); border-radius: 30px 30px 0px 0px; padding: 5px 5px 0px 5px">
+                <div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); border-radius: 30px 30px 0px 0px; padding: 15px 15px 0px 15px">
                     <h1 id="church-name"><a href="indexf.html" style="text-decoration: none; cursor: pointer;">Tabernacle du Saint-Esprit</a></h1>
                 </div>
                 <div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); border-radius: 0px 0px 30px 30px;">
@@ -317,7 +317,7 @@ function churchAbout(){
                   </ul>
                 </div>`};
 
-                function countdown() {
+function countdown() {
                   const targetDate = new Date("2024-02-25 10:00:00 GMT-0500");
                   const now = new Date();
                 
@@ -342,32 +342,175 @@ function churchAbout(){
                 setInterval(countdown, 1000);
 
 function ChurchWeekMessage(){
-  document.body.innerHTML =  ``;
+  document.body.innerHTML =  `<div style="background-image: url(churchb3.jpg); background-size: 100%; margin: 7px 7px 0px 7px;">
+  <div style=" margin: 0%; padding: 0%;">
+      <p style="text-align: right; margin: 0%; padding: 0%; color: black;"><a href="index.html"
+              style="color: black;">English</a> <a href="indexf.html"
+              style="color: rgb(0, 0, 0); cursor: pointer; text-decoration: none; color: black;">Français</a></p>
+  </div>
+  <div style="background-image: url(shining-blue-flow-background_1182-1836.avif);">
+      <div style="background-image: url(fire-ice-concept-background-with-fog-godray-3d_115548-21.avif); margin: 0px 20px 0px 0px; padding: 10px;">
+          <div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); border-radius: 30px 30px 0px 0px; padding: 15px 15px 0px 15px">
+              <h1 id="church-name"><a href="index.html" style="text-decoration: none;">Holy Spirit Tabernacle</a></h1>
+          </div>
+          <div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); border-radius: 0px 0px 30px 30px;">
+              <ul class="nav justify-content-center">
+                  <li class="nav-item">
+                      <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" onclick="churchAbout()" style="cursor: pointer;">About</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" onclick="churchContact()" style="cursor: pointer;">Contact</a>
+                  </li>
+              </ul>
+          </div>
+
+      </div>
+  </div>
+</div>
+<div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); background-size: 100%; background-repeat: no-repeat; border-radius: 30px;  margin: 10px 10px 0px 10px; padding: 10px;">
+<h5 style="text-align: center;">We are going to take the entire month to meditate on:</h5>
+<ul>
+   <li><p>Prophecy about the birth of Jesus</p></li>
+  <li><p>The Childhood of Jesus</p></li>
+  <li><p>The life of the Lord Jesus Christ before his ministry</p></li>
+</ul>
+</div>
+<div style="background-color: rgb(35, 247, 7); border-radius: 30px; color: rgb(6, 2, 247); padding: 15px; margin: 0px 10px 0px 10px">
+  <div> <ul>
+  <li><h5>Prophecy about the birth of Jesus: "Deuteronomy 18:15; 2 Samuel 7:14; Psalm 2:7; Psalm 2:11-12; Psalm 110; Proverbs 30:4; Isaiah 7:14; Isaiah 9:6-7; Daniel 3:25; Hosea 11:1; Micah 5:1-3; Matthew 1; Luke 1"</h5></li>
+  <br><br>
+  <li><h5>The Childhood of Jesus: "Matthew 2; Luke 2"</h5></li>
+  <br><br>
+  <li><h5>The life of the Lord Jesus Christ before his ministry: "Matthew 3; Matthew 4; Mark 1:1-12; Luke 3; Luke 4:1-13; John 1:1-34"</h5></li>
+  </ul></div>
+</div>
+              <div  class="d-none d-lg-block">
+              <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+                  <div class="carousel-inner">
+                    <div class="carousel-item active">
+                      <img src="picture of jesus christ before his ministry .webp" class="d-block w-100" alt="Baptism" style="width: 100%; height: 550px; border-radius: 30px; margin: 0px 0px 0px 10px;">
+                    </div>
+                    <div class="carousel-item">
+                      <img src="John-Baptizing-Jesus.jpg" class="d-block w-100" alt="Baptism" style="width: 100%; height: 500px; border-radius: 30px; margin: 0px 0px 0px 10px;">
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div  class="d-lg-none">
+                  <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+                      <div class="carousel-inner">
+                        <div class="carousel-item active">
+                          <img src="picture of jesus christ before his ministry .webp" class="d-block w-100" alt="Baptism" style="width: 100%; height: 350px; border-radius: 30px; margin: 0px 0px 0px 10px;">
+                        </div>
+                        <div class="carousel-item">
+                          <img src="John-Baptizing-Jesus.jpg" class="d-block w-100" alt="Baptism" style="width: 100%; height: 350px; border-radius: 30px; margin: 0px 0px 0px 10px;">
+                        </div>
+                      </div>
+                    </div>
+              </div>
+
+<div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); margin: 0px 10px 10px 10px;">
+  <ul class="nav justify-content-center">
+      <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+      </li>
+      <li class="nav-item">
+          <a class="nav-link" onclick="churchAbout()" style="cursor: pointer;">About</a>
+      </li>
+      <li class="nav-item">
+          <a class="nav-link" onclick="churchContact()" style="cursor: pointer;">Contact</a>
+      </li>
+  </ul>
+</div>`;
 };
 
 
 function ChurchWeekMessageF(){
   document.title = "Tabernacle du Saint-Esprit";
-  document.body.innerHTML =  ``;
+  document.body.innerHTML =  `<div style="background-image: url(churchb3.jpg); background-size: 100%; margin: 7px 7px 0px 7px;">
+  <div style="text-align: right; margin: 0%; padding: 0%;"><p style="text-align: right; margin: 0%; padding: 0%; color: black;"><a href="index.html" style="color: black; text-decoration: none;">English</a> <a href="indexf.html" style="text-decoration: underline; cursor: pointer; color: black">Français</a></p></div>
+  <div style="background-image: url(shining-blue-flow-background_1182-1836.avif);">
+  <div style="background-image: url(fire-ice-concept-background-with-fog-godray-3d_115548-21.avif); margin: 0px 20px 0px 0px; padding: 10px;">
+  <div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); border-radius: 30px 30px 0px 0px; padding: 15px 15px 0px 15px">
+          <h1 id="church-name"><a href="indexf.html" style="text-decoration: none;">Tabernacle du Saint-Esprit</a></h1>
+  </div>
+  <div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); border-radius: 0px 0px 30px 30px;">
+  <ul class="nav justify-content-center">
+      <li class="nav-item">
+        <a class="nav-link active" aria-current="page" href="indexf.html" style="cursor: pointer; text-decoration: none;">Acceuil</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" onclick="churchAboutF()" style="cursor: pointer;">À propos</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" onclick="churchContactF()" style="cursor: pointer;">Contact</a>
+      </li>
+    </ul>
+  </div>
+</div>
+</div>
+</div>
+
+<div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); background-size: 100%; background-repeat: no-repeat; border-radius: 30px;  margin: 10px 10px 0px 10px; padding: 10px;">
+    <h5 style="text-align: center;">Nous allons prendre tout le mois pour méditer sur:</h5>
+    <ul>
+         <li><p>Prophétie sur la naissance de Jésus</p></li>
+        <li><p>L'enfance de Jésus</p></li>
+        <li><p>La vie du Seigneur Jésus-Christ avant son ministère</p></li>
+    </ul>
+    </div>
+    <div style="background-color: rgb(35, 247, 7); border-radius: 30px; color: rgb(6, 2, 247); padding: 15px; margin: 0px 10px 0px 10px;">
+        <div><ul>
+        <li><h5>Prophétie sur la naissance de Jésus: "Deutéronome 18:15; 2 Sammuel 7:14; Psaume 2:7; Psaume 2:11-12; Psaume 110; Proverbes 30:4; Esaïe  7:14; Esaïe 9:6-7; Daniel 3:25; Osée 11:1; Michée 5:1-3; Matthieu 1; Luc 1"</h5></li>
+        <br><br>
+        <li><h5>L'enfance de Jésus: "Matthieu  2; Luc 2"</h5></li>
+        <br><br>
+        <li><h5>La vie du Seigneur Jésus-Christ avant son ministère: "Matthieu 3; Matthieu 4; Marc 1:1-12; Luc 3; Luc 4:1-13; Jean 1:1-34"</h5></li>
+        </ul></div>
+    </div>
+                    <div  class="d-none d-lg-block">
+                    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+                        <div class="carousel-inner">
+                          <div class="carousel-item active">
+                            <img src="picture of jesus christ before his ministry .webp" class="d-block w-100" alt="Baptism" style="width: 100%; height: 550px; border-radius: 30px; margin: 0px 0px 0px 10px;">
+                          </div>
+                          <div class="carousel-item">
+                            <img src="John-Baptizing-Jesus.jpg" class="d-block w-100" alt="Baptism" style="width: 100%; height: 500px; border-radius: 30px; margin: 0px 0px 0px 10px;">
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div  class="d-lg-none">
+                        <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-inner">
+                              <div class="carousel-item active">
+                                <img src="picture of jesus christ before his ministry .webp" class="d-block w-100" alt="Baptism" style="width: 100%; height: 350px; border-radius: 30px; margin: 0px 0px 0px 10px;">
+                              </div>
+                              <div class="carousel-item">
+                                <img src="John-Baptizing-Jesus.jpg" class="d-block w-100" alt="Baptism" style="width: 100%; height: 350px; border-radius: 30px; margin: 0px 0px 0px 10px;">
+                              </div>
+                            </div>
+                          </div>
+                    </div>
+
+
+<div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); margin: 0px 10px 10px 10px">
+  <ul class="nav justify-content-center">
+      <li class="nav-item">
+        <a class="nav-link active" aria-current="page" href="indexf.html" style="cursor: pointer; text-decoration: none;">Acceuil</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" onclick="churchAboutF()" style="cursor: pointer;">À propos</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" onclick="churchContactF()" style="cursor: pointer;">Contact</a>
+      </li>
+    </ul>
+  </div>`;
 };
 
-
-function ChurchPublishing(){
-  document.body.innerHTML =  ``;
-};
-
-
-function ChurchPublishingF(){
-  document.title = "Tabernacle du Saint-Esprit";
-  document.body.innerHTML =  ``;
-};
-
-function ChurchMaterials(){
-  document.body.innerHTML =  ``;
-};
-
-
-function ChurchMaterialsF(){
-  document.title = "Tabernacle du Saint-Esprit";
-  document.body.innerHTML =  ``;
-};
