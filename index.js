@@ -1,136 +1,9 @@
-function ChurchFrançais() {
-  document.title = "Tabernacle du Saint-Esprit";
-    document.body.innerHTML =  `<div style="background-image: url(churchb3.jpg); background-size: 100%; margin: 7px 7px 0px 7px;">
-    <div style="text-align: right; margin: 0%; padding: 0%;"><p style="text-align: right; margin: 0%; padding: 0%; color: black;"><a href="" style="color: black; text-decoration: none;">English</a> <a onclick="ChurchFrançais()" style="text-decoration: underline; cursor: pointer;">Français</a></p></div>
-    <div style="background-image: url(shining-blue-flow-background_1182-1836.avif);">
-    <div style="background-image: url(fire-ice-concept-background-with-fog-godray-3d_115548-21.avif); margin: 0px 20px 0px 0px; padding: 10px;">
-    <div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); border-radius: 30px 30px 0px 0px; padding: 5px 5px 0px 5px">
-            <h1 id="church-name"><a onclick="ChurchFrançais()" style="text-decoration: none;">Tabernacle du Saint-Esprit</a></h1>
-    </div>
-    <div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); border-radius: 0px 0px 30px 30px;">
-    <ul class="nav justify-content-center">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" onclick="ChurchFrançais()" style="background-color: aliceblue; border-radius: 30px; cursor: pointer;">Acceuil</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" onclick="churchAboutF()" style="cursor: pointer;">À propos</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" onclick="churchContactF()" style="cursor: pointer;">Contact</a>
-        </li>
-      </ul>
-    </div>
-</div>
-</div>
-</div>
-<div style="background-image: url(shining-blue-flow-background_1182-1836.avif); background-size: 140%; background-repeat: no-repeat; border-radius: 30px; margin: 0px 10px 0px 10px;">
-        <div style="width: 100%; height: 50px;"></div>
-        <div class="row" style="margin: 0px; padding: 0px;">
-            <div class="col-md-9 col-lg-3" style="margin: 0px; padding: 0px;"></div>
-            <div class="col-md-3 col-lg-6" style="margin: 0px; padding: 0px;"></div>
-            <div class="col-md-12 col-lg-3" style="margin: 0px; padding: 0px;">
-                        <div style="padding: 10px; cursor: pointer; font-size: large; font-weight: bold;" id="Add-church-event"> <a href="broadcastingf.html" style="text-decoration: none; color: blue;">DIFFUSION DE NOTRE SERVICE</a></div>
-                        <div class="d-none d-lg-block" style="padding: 2px; background-color: rgb(128, 224, 236); margin-right: 40px; border-radius: 10px;"></div>
-                        <div class="d-lg-none" style="padding: 2px; background-color: rgb(128, 224, 236); margin-right: 45%; border-radius: 10px;"></div>
-                        <div style="padding: 10px; cursor: pointer; font-size: large; font-weight: bold; color: blue;" id="Add-church-event" onclick="ChurchWeekMessageF()">MESSAGE POUR CETTE SEMAINE</div>
-                        <div class="d-none d-lg-block" style="padding: 2px; background-color: rgb(128, 240, 255); margin-right: 40px; border-radius: 10px;"></div>
-                        <div class="d-lg-none" style="padding: 2px; background-color: rgb(128, 224, 236); margin-right: 45%; border-radius: 10px;"></div>
-                        <div style="padding: 10px; cursor: pointer; font-size: large; font-weight: bold; color: blue;" id="church-publishing-book" onclick="ChurchPublishingF()">PROCHAIN ÉVÉNEMENT</div>
-                        <div class="d-none d-lg-block" style="padding: 2px; background-color: rgb(128, 240, 255); margin-right: 40px; border-radius: 10px;"></div>
-                        <div class="d-lg-none" style="padding: 2px; background-color: rgb(128, 224, 236); margin-right: 45%; border-radius: 10px;"></div>
-                        <div style="padding: 10px; cursor: pointer; font-size: large; font-weight: bold; color: blue;" id="church-materials" onclick="ChurchMaterialsF()">TROUVER DES MATÉRIELS</div>
-                        <div style="padding: 10px; cursor: pointer; font-size: large; font-weight: bold;" id="church-materials"></div>
-                    </div>
-        </div>
-    </div>
-
-    <div style="background-image: url(churchb1.jpg); background-size: 10%;  border-radius: 30px; margin: 0px 10px 0px 10px;">
-        <div class="row" style="margin: 0%; padding: 0px;">
-            <div class="col-md-12 col-lg-6" style="margin: 0px; padding: 0px;">
-                <iframe style="width: 100%; height: 350px; border-radius: 30px;" src="https://www.youtube.com/embed/vdoHpaJjPWQ?si=v7c8nxgqoQ1N2i3J" 
-                    title="YouTube video player" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    allowfullscreen></iframe>
-            </div>
-            <div class="col-md-12 col-lg-6" style="margin: 0px; padding: 0px;">
-                <div style="width: 100%; height: 350px;">
-                    <marquee scrollamount="1" behavior="scroll" direction="up">
-                        <h5 style="text-align: center; color: rgb(255, 255, 255); background-color: rgb(11, 87, 4); margin: 0%; border-radius: 30px 30px 0px 0px;">Le Saint-Esprit</h5>
-                        <p style="text-align: center; background-color: rgb(6, 97, 3); color: aliceblue; margin: 0px; border-radius: 0px 0px 30px 30px;">
-                            1 Corinthiens 6v19 : " Ne savez-vous pas que votre corps est le temple du Saint Esprit qui est en vous, que vous avez reçu de Dieu, et que vous ne vous appartenez point à vous-mêmes?" 
-                            Actes 1v8 : "Mais vous recevrez une puissance, le Saint Esprit survenant sur vous, et vous serez mes témoins à Jérusalem, dans toute la Judée, dans la Samarie, et jusqu'aux extrémités de la terre."
-                            Actes 2v38 : "Pierre leur dit: Repentez-vous, et que chacun de vous soit baptisé au nom de Jésus Christ, pour le pardon de vos péchés; et vous recevrez le don du Saint Esprit."
-                            Jean 14v15-17 : "15 Si vous m'aimez, gardez mes commandements.
-
-                            16 Et moi, je prierai le Père, et il vous donnera un autre consolateur, afin qu'il demeure éternellement avec vous,
-                            
-                            17 l'Esprit de vérité, que le monde ne peut recevoir, parce qu'il ne le voit point et ne le connaît point; mais vous, vous le connaissez, car il demeure avec vous, et il sera en vous."  
-                            Jean 14v26 : " Mais le consolateur, l'Esprit Saint, que le Père enverra en mon nom, vous enseignera toutes choses, et vous rappellera tout ce que je vous ai dit."
-                            Galates 5v22-23 : "22 Mais le fruit de l'Esprit, c'est l'amour, la joie, la paix, la patience, la bonté, la bénignité, la fidélité, la douceur, la tempérance;
-
-                            23 la loi n'est pas contre ces choses." </p>
-                    </marquee>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div  class="d-none d-lg-block" style="background-image: url(ChuchF1.jpg); background-size: 100%; background-repeat: no-repeat; height: 600px;  border-radius: 30px; margin: 0px 10px 0px 10px;">
-            </div>
-            <div  class="d-lg-none" style="background-image: url(ChuchF1.jpg); background-size: 100%; background-repeat: no-repeat; height: 250px;  border-radius: 30px; margin: 0px 10px 0px 10px;">
-                    </div>
-                    <div  class="d-none d-lg-block">
-                    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-                        <div class="carousel-inner">
-                          <div class="carousel-item active">
-                            <img src="HST1.jpg" class="d-block w-100" alt="Baptism" style="width: 100%; height: 550px; border-radius: 30px; margin: 0px 0px 0px 10px;">
-                          </div>
-                          <div class="carousel-item">
-                            <img src="HST2.jpg" class="d-block w-100" alt="Baptism" style="width: 100%; height: 550px; border-radius: 30px; margin: 0px 0px 0px 10px;">
-                          </div>
-                          <div class="carousel-item">
-                            <img src="Bible.jpg" class="d-block w-100" alt="Bible" style="width: 100%; height: 550px; border-radius: 30px; margin: 0px 0px 0px 10px;">
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div  class="d-lg-none">
-                        <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-                            <div class="carousel-inner">
-                              <div class="carousel-item active">
-                                <img src="HST1.jpg" class="d-block w-100" alt="Baptism" style="width: 100%; height: 400px; border-radius: 30px; margin: 0px 0px 0px 10px;">
-                              </div>
-                              <div class="carousel-item">
-                                <img src="HST2.jpg" class="d-block w-100" alt="Baptism" style="width: 100%; height: 400px; border-radius: 30px; margin: 0px 0px 0px 10px;">
-                              </div>
-                              <div class="carousel-item">
-                                <img src="Bible.jpg" class="d-block w-100" alt="Bible" style="width: 100%; height: 400px; border-radius: 30px; margin: 0px 0px 0px 10px;">
-                              </div>
-                            </div>
-                          </div>
-                    </div>
-
-
-<div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); margin: 0px 10px 10px 10px">
-    <ul class="nav justify-content-center">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" onclick="ChurchFrançais()" style="background-color: aliceblue; border-radius: 30px; cursor: pointer;">Acceuil</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" onclick="churchAboutF()" style="cursor: pointer;">À propos</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" onclick="churchContactF()" style="cursor: pointer;">Contact</a>
-        </li>
-      </ul>
-    </div>`
-};
 function churchContact(){
     document.body.innerHTML = `<div style="background-image: url(churchb3.jpg); background-size: 100%; margin: 7px 7px 0px 7px;">
     <div style=" margin: 0%; padding: 0%;">
     <p style="text-align: right; margin: 0%; padding: 0%; color: black;"><a href=""
-            style="color: black;">English</a> <a onclick="ChurchFrançais()"
-            style="color: rgb(0, 0, 0); cursor: pointer;">Français</a></p>
+            style="color: black;">English</a> <a href="indexf.html"
+            style="color: rgb(0, 0, 0); cursor: pointer; text-decoration: none;">Français</a></p>
 </div>
 <div style="background-image: url(shining-blue-flow-background_1182-1836.avif);">
 <div style="background-image: url(fire-ice-concept-background-with-fog-godray-3d_115548-21.avif); margin: 0px 20px 0px 0px; padding: 10px;">
@@ -233,16 +106,16 @@ function churchContact(){
 function churchContactF(){
   document.title = "Tabernacle du Saint-Esprit";
         document.body.innerHTML = `<div style="background-image: url(churchb3.jpg); background-size: 100%; margin: 7px 7px 0px 7px;">
-        <div style="text-align: right; margin: 0%; padding: 0%;"><p style="text-align: right; margin: 0%; padding: 0%; color: black;"><a href="" style="color: black; text-decoration: none;">English</a> <a onclick="ChurchFrançais()" style="text-decoration: underline; cursor: pointer;">Français</a></p></div>        
+        <div style="text-align: right; margin: 0%; padding: 0%;"><p style="text-align: right; margin: 0%; padding: 0%; color: black;"><a href="" style="color: black; text-decoration: none;">English</a> <a href="indexf.html" style="text-decoration: underline; cursor: pointer;">Français</a></p></div>        
         <div style="background-image: url(shining-blue-flow-background_1182-1836.avif);">
         <div style="background-image: url(fire-ice-concept-background-with-fog-godray-3d_115548-21.avif); margin: 0px 20px 0px 0px; padding: 10px;">
         <div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); border-radius: 30px 30px 0px 0px; padding: 5px 5px 0px 5px">
-            <h1 id="church-name"><a onclick="ChurchFrançais()" style="text-decoration: none; cursor: pointer;">Tabernacle du Saint-Esprit</a></h1>
+            <h1 id="church-name"><a href="indexf.html" style="text-decoration: none; cursor: pointer;">Tabernacle du Saint-Esprit</a></h1>
         </div>
         <div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); border-radius: 0px 0px 30px 30px;">
         <ul class="nav justify-content-center">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" onclick="ChurchFrançais()" style="cursor: pointer;">Acceuil</a>
+              <a class="nav-link active" aria-current="page" href="indexf.html" style="cursor: pointer; text-decoration: none;">Acceuil</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" onclick="churchAboutF()" style="cursor: pointer;">À propos</a>
@@ -322,7 +195,7 @@ function churchContactF(){
     <div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif);">
         <ul class="nav justify-content-center">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" onclick="ChurchFrançais()" style="cursor: pointer;">Acceuil</a>
+              <a class="nav-link active" aria-current="page" href="indexf.html" style="cursor: pointer; text-decoration: none;">Acceuil</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" onclick="churchAboutF()" style="cursor: pointer;">À propos</a>
@@ -336,8 +209,8 @@ function churchAbout(){
             document.body.innerHTML = `<div style="background-image: url(churchb3.jpg); background-size: 100%; margin: 7px 7px 0px 7px;">
             <div style=" margin: 0%; padding: 0%;">
             <p style="text-align: right; margin: 0%; padding: 0%; color: black;"><a href=""
-                    style="color: black;">English</a> <a onclick="ChurchFrançais()"
-                    style="color: rgb(0, 0, 0); cursor: pointer;">Français</a></p>
+                    style="color: black;">English</a> <a href="indexf.html"
+                    style="color: rgb(0, 0, 0); cursor: pointer; text-decoration: none;">Français</a></p>
         </div>            
         <div style="background-image: url(shining-blue-flow-background_1182-1836.avif);">
         <div style="background-image: url(fire-ice-concept-background-with-fog-godray-3d_115548-21.avif); margin: 0px 20px 0px 0px; padding: 10px;">
@@ -392,16 +265,16 @@ function churchAbout(){
             function churchAboutF(){
               document.title = "Tabernacle du Saint-Esprit";
                 document.body.innerHTML = `<div style="background-image: url(churchb3.jpg); background-size: 100%; margin: 7px 7px 0px 7px;">
-                <div style="text-align: right; margin: 0%; padding: 0%;"><p style="text-align: right; margin: 0%; padding: 0%; color: black;"><a href="" style="color: black; text-decoration: none;">English</a> <a onclick="ChurchFrançais()" style="text-decoration: underline; cursor: pointer;">Français</a></p></div> 
+                <div style="text-align: right; margin: 0%; padding: 0%;"><p style="text-align: right; margin: 0%; padding: 0%; color: black;"><a href="" style="color: black; text-decoration: none;">English</a> <a href="indexf.html" style="text-decoration: underline; cursor: pointer;">Français</a></p></div> 
                 <div style="background-image: url(shining-blue-flow-background_1182-1836.avif);">
                 <div style="background-image: url(fire-ice-concept-background-with-fog-godray-3d_115548-21.avif); margin: 0px 20px 0px 0px; padding: 10px;">
                 <div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); border-radius: 30px 30px 0px 0px; padding: 5px 5px 0px 5px">
-                    <h1 id="church-name"><a onclick="ChurchFrançais()" style="text-decoration: none; cursor: pointer;">Tabernacle du Saint-Esprit</a></h1>
+                    <h1 id="church-name"><a href="indexf.html" style="text-decoration: none; cursor: pointer;">Tabernacle du Saint-Esprit</a></h1>
                 </div>
                 <div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); border-radius: 0px 0px 30px 30px;">
                 <ul class="nav justify-content-center">
                     <li class="nav-item">
-                      <a class="nav-link active" aria-current="page" onclick="ChurchFrançais()" style="cursor: pointer;">Acceuil</a>
+                      <a class="nav-link active" aria-current="page" href="indexf.html" style="cursor: pointer; text-decoration: none;">Acceuil</a>
                     </li>
                     <li class="nav-item">
                       <a class="nav-link" onclick="churchAboutF()" style="cursor: pointer; background-color: aliceblue; border-radius: 30px;">À propos</a>
@@ -433,7 +306,7 @@ function churchAbout(){
             <div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif);">
                 <ul class="nav justify-content-center">
                     <li class="nav-item">
-                      <a class="nav-link active" aria-current="page" onclick="ChurchFrançais()" style="cursor: pointer;">Acceuil</a>
+                      <a class="nav-link active" aria-current="page" href="indexf.html" style="cursor: pointer; text-decoration: none;">Acceuil</a>
                     </li>
                     <li class="nav-item">
                       <a class="nav-link" onclick="churchAboutF()" style="cursor: pointer; background-color: aliceblue; border-radius: 30px;">À propos</a>
