@@ -1,5 +1,6 @@
 
 function ChurchFrançais() {
+    document.title = "Tabernacle du Saint-Esprit";
     document.body.innerHTML =  `<div style="background-image: url(churchb3.jpg); background-size: 100%; margin: 7px 7px 0px 7px;">
     <div style="text-align: right; margin: 0%; padding: 0%;"><p style="text-align: right; margin: 0%; padding: 0%; color: black;"><a href="" style="color: black; text-decoration: none;">English</a> <a onclick="ChurchFrançais()" style="text-decoration: underline; cursor: pointer;">Français</a></p></div>
     <div style="background-image: url(shining-blue-flow-background_1182-1836.avif);">
@@ -23,7 +24,7 @@ function ChurchFrançais() {
 </div>
 </div>
 </div>
-<div style="background-image: url(shining-blue-flow-background_1182-1836.avif); background-size: 150%; background-repeat: no-repeat; border-radius: 30px; margin: 0px 10px 0px 10px;">
+<div style="background-image: url(shining-blue-flow-background_1182-1836.avif); background-size: 140%; background-repeat: no-repeat; border-radius: 30px; margin: 0px 10px 0px 10px;">
         <div style="width: 100%; height: 50px;"></div>
         <div class="row" style="margin: 0px; padding: 0px;">
             <div class="col-md-9 col-lg-3" style="margin: 0px; padding: 0px;"></div>
@@ -77,6 +78,38 @@ function ChurchFrançais() {
     <div  class="d-none d-lg-block" style="background-image: url(ChuchF1.jpg); background-size: 100%; background-repeat: no-repeat; height: 600px;  border-radius: 30px; margin: 0px 10px 0px 10px;">
             </div>
             <div  class="d-lg-none" style="background-image: url(ChuchF1.jpg); background-size: 100%; background-repeat: no-repeat; height: 250px;  border-radius: 30px; margin: 0px 10px 0px 10px;">
+                    </div>
+
+                     <div  class="d-none d-lg-block">
+                    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+                        <div class="carousel-inner">
+                          <div class="carousel-item active">
+                            <img src="HST1.jpg" class="d-block w-100" alt="Baptism" style="width: 100%; height: 550px; border-radius: 30px; margin: 0px 0px 0px 10px;">
+                          </div>
+                          <div class="carousel-item">
+                            <img src="HST2.jpg" class="d-block w-100" alt="Baptism" style="width: 100%; height: 550px; border-radius: 30px; margin: 0px 0px 0px 10px;">
+                          </div>
+                          <div class="carousel-item">
+                            <img src="Bible.jpg" class="d-block w-100" alt="Bible" style="width: 100%; height: 550px; border-radius: 30px; margin: 0px 0px 0px 10px;">
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div  class="d-lg-none">
+                        <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-inner">
+                              <div class="carousel-item active">
+                                <img src="HST1.jpg" class="d-block w-100" alt="Baptism" style="width: 100%; height: 400px; border-radius: 30px; margin: 0px 0px 0px 10px;">
+                              </div>
+                              <div class="carousel-item">
+                                <img src="HST2.jpg" class="d-block w-100" alt="Baptism" style="width: 100%; height: 400px; border-radius: 30px; margin: 0px 0px 0px 10px;">
+                              </div>
+                              <div class="carousel-item">
+                                <img src="Bible.jpg" class="d-block w-100" alt="Bible" style="width: 100%; height: 400px; border-radius: 30px; margin: 0px 0px 0px 10px;">
+                              </div>
+                            </div>
+                          </div>
                     </div>
 
 <div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); margin: 0px 10px 10px 10px">
