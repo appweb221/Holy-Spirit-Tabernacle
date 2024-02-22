@@ -76,7 +76,7 @@ function ChurchFrançais() {
     </div>
     <div  class="d-none d-lg-block" style="background-image: url(ChuchF1.jpg); background-size: 100%; background-repeat: no-repeat; height: 600px;  border-radius: 30px; margin: 0px 10px 0px 10px;">
             </div>
-            <div  class="d-lg-none" style="background-image: url(ChuchF1.jpg; background-size: 100%; background-repeat: no-repeat; height: 250px;  border-radius: 30px; margin: 0px 10px 0px 10px;">
+            <div  class="d-lg-none" style="background-image: url(ChuchF1.jpg); background-size: 100%; background-repeat: no-repeat; height: 250px;  border-radius: 30px; margin: 0px 10px 0px 10px;">
                     </div>
 
 <div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); margin: 0px 10px 10px 10px">
