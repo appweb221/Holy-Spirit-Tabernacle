@@ -110,7 +110,7 @@ function churchContactF(){
         <div style="background-image: url(shining-blue-flow-background_1182-1836.avif);">
         <div style="background-image: url(fire-ice-concept-background-with-fog-godray-3d_115548-21.avif); margin: 0px 20px 0px 0px; padding: 10px;">
         <div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); border-radius: 30px 30px 0px 0px; padding: 15px 15px 0px 15px">
-            <h1 id="church-name"><a href="indexf.html" style="text-decoration: none; cursor: pointer;">Tabernacle du Saint-Esprit</a></h1>
+            <h1 id="church-name"><a href="indexf.html" style="text-decoration: none; cursor: pointer; padding: 15px;">Tabernacle du Saint-Esprit</a></h1>
         </div>
         <div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); border-radius: 0px 0px 30px 30px;">
         <ul class="nav justify-content-center">
@@ -269,7 +269,7 @@ function churchAbout(){
                 <div style="background-image: url(shining-blue-flow-background_1182-1836.avif);">
                 <div style="background-image: url(fire-ice-concept-background-with-fog-godray-3d_115548-21.avif); margin: 0px 20px 0px 0px; padding: 10px;">
                 <div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); border-radius: 30px 30px 0px 0px; padding: 15px 15px 0px 15px">
-                    <h1 id="church-name"><a href="indexf.html" style="text-decoration: none; cursor: pointer;">Tabernacle du Saint-Esprit</a></h1>
+                    <h1 id="church-name"><a href="indexf.html" style="text-decoration: none; cursor: pointer; padding: 15px;">Tabernacle du Saint-Esprit</a></h1>
                 </div>
                 <div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); border-radius: 0px 0px 30px 30px;">
                 <ul class="nav justify-content-center">
@@ -370,7 +370,7 @@ function ChurchWeekMessage(){
       </div>
   </div>
 </div>
-<div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); background-size: 100%; background-repeat: no-repeat; border-radius: 30px;  margin: 10px 10px 0px 10px; padding: 10px;">
+<div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); background-size: 100%; background-repeat: no-repeat; border-radius: 30px;  margin: 10px 10px 0px 10px; padding: 10px; color: rgb(6, 2, 247);">
 <h5 style="text-align: center;">We are going to take the entire month to meditate on:</h5>
 <ul>
    <li><p>Prophecy about the birth of Jesus</p></li>
@@ -436,7 +436,7 @@ function ChurchWeekMessageF(){
   <div style="background-image: url(shining-blue-flow-background_1182-1836.avif);">
   <div style="background-image: url(fire-ice-concept-background-with-fog-godray-3d_115548-21.avif); margin: 0px 20px 0px 0px; padding: 10px;">
   <div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); border-radius: 30px 30px 0px 0px; padding: 15px 15px 0px 15px">
-          <h1 id="church-name"><a href="indexf.html" style="text-decoration: none;">Tabernacle du Saint-Esprit</a></h1>
+          <h1 id="church-name"><a href="indexf.html" style="text-decoration: none; padding: 15px;">Tabernacle du Saint-Esprit</a></h1>
   </div>
   <div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); border-radius: 0px 0px 30px 30px;">
   <ul class="nav justify-content-center">
@@ -455,7 +455,7 @@ function ChurchWeekMessageF(){
 </div>
 </div>
 
-<div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); background-size: 100%; background-repeat: no-repeat; border-radius: 30px;  margin: 10px 10px 0px 10px; padding: 10px;">
+<div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); background-size: 100%; background-repeat: no-repeat; border-radius: 30px;  margin: 10px 10px 0px 10px; padding: 10px; color: rgb(6, 2, 247);">
     <h5 style="text-align: center;">Nous allons prendre tout le mois pour méditer sur:</h5>
     <ul>
          <li><p>Prophétie sur la naissance de Jésus</p></li>
