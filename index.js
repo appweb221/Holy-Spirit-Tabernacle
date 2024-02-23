@@ -1017,10 +1017,17 @@ function ChurchMaterials(){
   <h4
       style="text-align: center; font-weight: bold; font-family: fantasy; padding: 10px; margin: 0px; background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); background-size: 200%; background-repeat: no-repeat;">
       Videos</h4>
-  <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
-      <div class="carousel-inner">
-          <div class="carousel-item active">
-              <div class="row" style="margin: 0%; padding: 0px;">
+
+<div id="carouselExampleIndicators" class="carousel slide">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <div class="d-block w-100">
+      <div class="row" style="margin: 0%; padding: 0px;">
                   <div class="col-4" style="margin: 0px; padding: 0px;">
                       <iframe style="width: 100%; height: 350px;"
                           src="https://www.youtube.com/embed/OR-KC97B2aQ?si=PhdADKvo-FceJCVF"
@@ -1043,9 +1050,11 @@ function ChurchMaterials(){
                           allowfullscreen></iframe>
                   </div>
               </div>
-          </div>
-          <div class="carousel-item">
-              <div class="row" style="margin: 0%; padding: 0px;">
+              </div>
+    </div>
+    <div class="carousel-item">
+      <div class="d-block w-100">
+      <div class="row" style="margin: 0%; padding: 0px;">
                   <div class="col-4" style="margin: 0px; padding: 0px;">
                       <iframe style="width: 100%; height: 350px;"
                           src="https://www.youtube.com/embed/h0sx6e4UFTc?si=ID7-iJ3b_VqMNLbb"
@@ -1068,9 +1077,11 @@ function ChurchMaterials(){
                           allowfullscreen></iframe>
                   </div>
               </div>
-          </div>
-          <div class="carousel-item">
-              <div class="row" style="margin: 0%; padding: 0px;">
+              </div>
+    </div>
+    <div class="carousel-item">
+      <div class="d-block w-100">
+      <div class="row" style="margin: 0%; padding: 0px;">
                   <div class="col-4" style="margin: 0px; padding: 0px;">
                       <iframe style="width: 100%; height: 350px;"
                           src="https://www.youtube.com/embed/wY4iYGzP7ls?si=3oTfjO-PO2Dah3yW"
@@ -1093,19 +1104,18 @@ function ChurchMaterials(){
                           allowfullscreen></iframe>
                   </div>
               </div>
-          </div>
-      </div>
-      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying"
-          data-bs-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Previous</span>
-      </button>
-      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying"
-          data-bs-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Next</span>
-      </button>
+              </div>
+    </div>
   </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
 </div>
 
 <div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); margin: 0px;">
