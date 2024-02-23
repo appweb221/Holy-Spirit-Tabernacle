@@ -380,11 +380,11 @@ function ChurchWeekMessage(){
 </div>
 <div style="background-color: rgb(35, 247, 7); border-radius: 30px; color: rgb(6, 2, 247); padding: 15px; margin: 0px 10px 0px 10px">
   <div> <ul>
-  <li><h5>Prophecy about the birth of Jesus: "Deuteronomy 18:15; 2 Samuel 7:14; Psalm 2:7; Psalm 2:11-12; Psalm 110; Proverbs 30:4; Isaiah 7:14; Isaiah 9:6-7; Daniel 3:25; Hosea 11:1; Micah 5:1-3; Matthew 1; Luke 1"</h5></li>
+  <li><h5>Prophecy about the birth of Jesus: "Deuteronomy 18:15| 2 Samuel 7:14| Psalm 2:7| Psalm 2:11-12| Psalm 110| Proverbs 30:4| Isaiah 7:14| Isaiah 9:6-7| Daniel 3:25| Hosea 11:1| Micah 5:1-3| Matthew 1| Luke 1"</h5></li>
   <br><br>
-  <li><h5>The Childhood of Jesus: "Matthew 2; Luke 2"</h5></li>
+  <li><h5>The Childhood of Jesus: "Matthew 2| Luke 2"</h5></li>
   <br><br>
-  <li><h5>The life of the Lord Jesus Christ before his ministry: "Matthew 3; Matthew 4; Mark 1:1-12; Luke 3; Luke 4:1-13; John 1:1-34"</h5></li>
+  <li><h5>The life of the Lord Jesus Christ before his ministry: "Matthew 3| Matthew 4| Mark 1:1-12| Luke 3| Luke 4:1-13| John 1:1-34"</h5></li>
   </ul></div>
 </div>
               <div  class="d-none d-lg-block">
@@ -465,11 +465,11 @@ function ChurchWeekMessageF(){
     </div>
     <div style="background-color: rgb(35, 247, 7); border-radius: 30px; color: rgb(6, 2, 247); padding: 15px; margin: 0px 10px 0px 10px;">
         <div><ul>
-        <li><h5>Prophétie sur la naissance de Jésus: "Deutéronome 18:15; 2 Sammuel 7:14; Psaume 2:7; Psaume 2:11-12; Psaume 110; Proverbes 30:4; Esaïe  7:14; Esaïe 9:6-7; Daniel 3:25; Osée 11:1; Michée 5:1-3; Matthieu 1; Luc 1"</h5></li>
+        <li><h5>Prophétie sur la naissance de Jésus: "Deutéronome 18:15| 2 Sammuel 7:14| Psaume 2:7| Psaume 2:11-12| Psaume 110| Proverbes 30:4| Esaïe 7:14| Esaïe 9:6-7| Daniel 3:25| Osée 11:1| Michée 5:1-3| Matthieu 1| Luc 1"</h5></li>
         <br><br>
-        <li><h5>L'enfance de Jésus: "Matthieu  2; Luc 2"</h5></li>
+        <li><h5>L'enfance de Jésus: "Matthieu  2| Luc 2"</h5></li>
         <br><br>
-        <li><h5>La vie du Seigneur Jésus-Christ avant son ministère: "Matthieu 3; Matthieu 4; Marc 1:1-12; Luc 3; Luc 4:1-13; Jean 1:1-34"</h5></li>
+        <li><h5>La vie du Seigneur Jésus-Christ avant son ministère: "Matthieu 3| Matthieu 4| Marc 1:1-12| Luc 3| Luc 4:1-13| Jean 1:1-34"</h5></li>
         </ul></div>
     </div>
                     <div  class="d-none d-lg-block">
