@@ -514,3 +514,138 @@ function ChurchWeekMessageF(){
   </div>`;
 };
 
+function ChurchPublishing(){
+  document.body.innerHTML =  `<div style="background-image: url(churchb3.jpg); background-size: 100%; margin: 7px 7px 0px 7px;">
+  <div style=" margin: 0%; padding: 0%;">
+      <p style="text-align: right; margin: 0%; padding: 0%; color: black;"><a href="index.html"
+              style="color: black;">English</a> <a href="indexf.html"
+              style="color: rgb(0, 0, 0); cursor: pointer; text-decoration: none; color: black;">Français</a></p>
+  </div>
+  <div style="background-image: url(shining-blue-flow-background_1182-1836.avif);">
+      <div
+          style="background-image: url(fire-ice-concept-background-with-fog-godray-3d_115548-21.avif); margin: 0px 20px 0px 0px; padding: 10px;">
+          <div
+              style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); border-radius: 30px 30px 0px 0px; padding: 15px 15px 0px 15px">
+              <h1 id="church-name"><a href="index.html" style="text-decoration: none;">Holy Spirit Tabernacle</a>
+              </h1>
+          </div>
+          <div
+              style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); border-radius: 0px 0px 30px 30px;">
+              <ul class="nav justify-content-center">
+                  <li class="nav-item">
+                      <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" onclick="churchAbout()" style="cursor: pointer;">About</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" onclick="churchContact()" style="cursor: pointer;">Contact</a>
+                  </li>
+              </ul>
+          </div>
+
+      </div>
+  </div>
+</div>
+<div style="background-color: rgb(42, 78, 88); border-radius: 30px; margin: 0px 10px 0px 10px;">
+  <div style="align-items: center;">
+      <h5
+          style="text-align: center; margin: 15px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: rgb(75, 253, 5); padding: 15px;">
+          We understand that the Christian has his own environment, so we organize many events for us to entertain
+          ourselves in the word of God. We have evangelization, we visit other churches when they have concerts
+          and conventions. Very soon we will publish our next event for this season. </h5>
+  </div>
+
+  <div class="row" style="margin: 0px; padding: 0px;">
+      <div class="col-md-3 col-lg-3" style="margin: 0px; padding: 0px;"></div>
+      <div class="col-md-12 col-lg-6" style="margin: 30px 0px 30px 0px ; padding: 0px;">
+          <iframe style="width: 100%; height: 315; border-radius: 30px;"
+              src="https://www.youtube.com/embed/yKi-yDN7jBc?si=JtsN3PzUUGijfCTC" title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen></iframe>
+
+      </div>
+      <div class="col-md-3 col-lg-3" style="margin: 0px; padding: 0px;"></div>
+  </div>
+</div>
+<div
+  style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); margin: 0px 10px 10px 10px;">
+  <ul class="nav justify-content-center">
+      <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+      </li>
+      <li class="nav-item">
+          <a class="nav-link" onclick="churchAbout()" style="cursor: pointer;">About</a>
+      </li>
+      <li class="nav-item">
+          <a class="nav-link" onclick="churchContact()" style="cursor: pointer;">Contact</a>
+      </li>
+  </ul>
+</div>`;
+};
+
+
+function ChurchPublishingF(){
+  document.title = "Tabernacle du Saint-Esprit";
+  document.body.innerHTML =  `<div style="background-image: url(churchb3.jpg); background-size: 100%; margin: 7px 7px 0px 7px;">
+  <div style="text-align: right; margin: 0%; padding: 0%;"><p style="text-align: right; margin: 0%; padding: 0%; color: black;"><a href="index.html" style="color: black; text-decoration: none;">English</a> <a href="indexf.html" style="text-decoration: underline; cursor: pointer; color: black">Français</a></p></div>
+  <div style="background-image: url(shining-blue-flow-background_1182-1836.avif);">
+  <div style="background-image: url(fire-ice-concept-background-with-fog-godray-3d_115548-21.avif); margin: 0px 20px 0px 0px; padding: 10px;">
+  <div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); border-radius: 30px 30px 0px 0px; padding: 15px 15px 0px 15px">
+          <h1 id="church-name"><a href="indexf.html" style="text-decoration: none;">Tabernacle du Saint-Esprit</a></h1>
+  </div>
+  <div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); border-radius: 0px 0px 30px 30px;">
+  <ul class="nav justify-content-center">
+      <li class="nav-item">
+        <a class="nav-link active" aria-current="page" href="indexf.html" style="cursor: pointer; text-decoration: none;">Acceuil</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" onclick="churchAboutF()" style="cursor: pointer;">À propos</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" onclick="churchContactF()" style="cursor: pointer;">Contact</a>
+      </li>
+    </ul>
+  </div>
+</div>
+</div>
+</div>
+
+<div style="background-color: rgb(42, 78, 88); border-radius: 30px; margin: 0px 10px 0px 10px;">
+        <div style="align-items: center;">
+            <h5
+                style="text-align: center; margin: 15px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: rgb(75, 253, 5); padding: 15px;">
+                Nous comprenons que le chrétien a son propre environnement, c'est pourquoi nous organisons de nombreux événements pour nous divertir dans la parole de Dieu. Nous avons l'évangélisation, nous visitons d'autres églises quand elles ont des concerts
+                 et des conventions. Très bientôt nous publierons notre prochain événement pour cette saison. </h5>
+        </div>
+
+        <div class="row" style="margin: 0px; padding: 0px;">
+            <div class="col-md-3 col-lg-3" style="margin: 0px; padding: 0px;"></div>
+            <div class="col-md-12 col-lg-6" style="margin: 30px 0px 30px 0px ; padding: 0px;">
+                <iframe style="width: 100%; height: 315; border-radius: 30px;"
+                    src="https://www.youtube.com/embed/yKi-yDN7jBc?si=JtsN3PzUUGijfCTC" title="YouTube video player"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowfullscreen></iframe>
+
+            </div>
+            <div class="col-md-3 col-lg-3" style="margin: 0px; padding: 0px;"></div>
+        </div>
+    </div>
+
+
+<div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); margin: 0px 10px 10px 10px">
+  <ul class="nav justify-content-center">
+      <li class="nav-item">
+        <a class="nav-link active" aria-current="page" href="indexf.html" style="cursor: pointer; text-decoration: none;">Acceuil</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" onclick="churchAboutF()" style="cursor: pointer;">À propos</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" onclick="churchContactF()" style="cursor: pointer;">Contact</a>
+      </li>
+    </ul>
+  </div>`;
+};
