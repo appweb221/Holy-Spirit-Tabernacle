@@ -1028,50 +1028,36 @@ function ChurchMaterials(){
     <div class="carousel-item active">
       <div class="d-block w-100">
       <div class="row" style="margin: 0%; padding: 0px;">
-                  <div class="col-4" style="margin: 0px; padding: 0px;">
+                  <div class="col-6" style="margin: 0px; padding: 0px;">
                       <iframe style="width: 100%; height: 350px;"
                           src="https://www.youtube.com/embed/OR-KC97B2aQ?si=PhdADKvo-FceJCVF"
                           title="YouTube video player" frameborder="0"
                           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                           allowfullscreen></iframe>
                   </div>
-                  <div class="col-4" style="margin: 0px; padding: 0px;">
+                  <div class="col-6" style="margin: 0px; padding: 0px;">
                       <iframe style="width: 100%; height: 350px;"
                           src="https://www.youtube.com/embed/XK6vUbXvuHs?si=FSoj0PbPn3yFnByv"
                           title="YouTube video player" frameborder="0"
                           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                           allowfullscreen></iframe>
                   </div>
-                  <div class="col-4" style="margin: 0px; padding: 0px;">
-                      <iframe style="width: 100%; height: 350px;"
-                          src="https://www.youtube.com/embed/JbWuWULENPQ?si=Oekpmsc6Suc4C89_"
-                          title="YouTube video player" frameborder="0"
-                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                          allowfullscreen></iframe>
-                  </div>
               </div>
               </div>
     </div>
     <div class="carousel-item">
       <div class="d-block w-100">
       <div class="row" style="margin: 0%; padding: 0px;">
-                  <div class="col-4" style="margin: 0px; padding: 0px;">
+                  <div class="col-6" style="margin: 0px; padding: 0px;">
                       <iframe style="width: 100%; height: 350px;"
                           src="https://www.youtube.com/embed/h0sx6e4UFTc?si=ID7-iJ3b_VqMNLbb"
                           title="YouTube video player" frameborder="0"
                           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                           allowfullscreen></iframe>
                   </div>
-                  <div class="col-4" style="margin: 0px; padding: 0px;">
+                  <div class="col-6" style="margin: 0px; padding: 0px;">
                       <iframe style="width: 100%; height: 350px;"
                           src="https://www.youtube.com/embed/ZTj7hnlYMNw?si=157NQSk3fzqgGzcx"
-                          title="YouTube video player" frameborder="0"
-                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                          allowfullscreen></iframe>
-                  </div>
-                  <div class="col-4" style="margin: 0px; padding: 0px;">
-                      <iframe style="width: 100%; height: 350px;"
-                          src="https://www.youtube.com/embed/Bopc1-cfhA0?si=-eaoxB2v9sbaRV5u"
                           title="YouTube video player" frameborder="0"
                           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                           allowfullscreen></iframe>
@@ -1082,23 +1068,16 @@ function ChurchMaterials(){
     <div class="carousel-item">
       <div class="d-block w-100">
       <div class="row" style="margin: 0%; padding: 0px;">
-                  <div class="col-4" style="margin: 0px; padding: 0px;">
+                  <div class="col-6" style="margin: 0px; padding: 0px;">
                       <iframe style="width: 100%; height: 350px;"
                           src="https://www.youtube.com/embed/wY4iYGzP7ls?si=3oTfjO-PO2Dah3yW"
                           title="YouTube video player" frameborder="0"
                           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                           allowfullscreen></iframe>
                   </div>
-                  <div class="col-4" style="margin: 0px; padding: 0px;">
+                  <div class="col-6" style="margin: 0px; padding: 0px;">
                       <iframe style="width: 100%; height: 350px;"
                           src="https://www.youtube.com/embed/HFpgnn67Ip0?si=3qrjCX41NViRtOkM"
-                          title="YouTube video player" frameborder="0"
-                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                          allowfullscreen></iframe>
-                  </div>
-                  <div class="col-4" style="margin: 0px; padding: 0px;">
-                      <iframe style="width: 100%; height: 350px;"
-                          src="https://www.youtube.com/embed/jfRqkWB887o?si=-Oo8-EyrH28saOiy"
                           title="YouTube video player" frameborder="0"
                           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                           allowfullscreen></iframe>
@@ -1131,4 +1110,460 @@ function ChurchMaterials(){
       </li>
   </ul>
 </div>`;
+};
+function ChurchMaterialsF(){
+  document.title = "Tabernacle du Saint-Esprit";
+  document.body.innerHTML =  ` <div style="background-image: url(churchb3.jpg); background-size: 100%; margin: 7px 7px 0px 7px;">
+  <div style="text-align: right; margin: 0%; padding: 0%;"><p style="text-align: right; margin: 0%; padding: 0%; color: black;"><a href="index.html" style="color: black; text-decoration: none;">English</a> <a href="indexf.html" style="text-decoration: underline; cursor: pointer; color: black">Français</a></p></div>
+  <div style="background-image: url(shining-blue-flow-background_1182-1836.avif);">
+  <div style="background-image: url(fire-ice-concept-background-with-fog-godray-3d_115548-21.avif); margin: 0px 20px 0px 0px; padding: 10px;">
+  <div style="background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); border-radius: 30px 30px 0px 0px; padding: 15px 15px 0px 15px">
+          <h1 id="church-name"><a href="indexf.html" style="text-decoration: none;">Tabernacle du Saint-Esprit</a></h1>
+  </div>
+  <div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); border-radius: 0px 0px 30px 30px;">
+  <ul class="nav justify-content-center">
+      <li class="nav-item">
+        <a class="nav-link active" aria-current="page" href="indexf.html" style="cursor: pointer; text-decoration: none;">Acceuil</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" onclick="churchAboutF()" style="cursor: pointer;">À propos</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" onclick="churchContactF()" style="cursor: pointer;">Contact</a>
+      </li>
+    </ul>
+  </div>
+</div>
+</div>
+</div>
+<div>
+    <div class="d-none d-lg-block" style="padding: 5px 0px 30px 0px; background-color: #a5fc04;">
+        <h4
+            style="text-align: center; font-weight: bold; font-family: fantasy; padding: 10px; margin: 0px; background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); background-size: 200%; background-repeat: no-repeat;">
+            Livres</h4>
+        <div>
+            <div class="row" style="margin: 10px; padding: 0px;">
+                <div class="col-3" style="margin: 10px; padding: 0px;">
+                    <a href="https://branham.fr/files/pdf/52/shp52-0816.pdf"
+                        style="text-decoration: none;">
+                        <div style="background-image: url(John-Baptizing-Jesus.jpg); background-size: 250%; background-repeat: no-repeat; height: 250px; font-family: 'Staatliches', cursive;
+            margin: 10px;
+            padding: 10px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            width: 100%; border-radius: 30px;">
+                            <h6
+                                style="text-align: center; background-color: rgb(216, 209, 209); color: rgb(0, 0, 0); border-radius: 30px; padding: 10px; border: 2px solid rgb(112, 111, 111);">
+                                La Foi</h6>
+                        </div>
+                    </a>
+                </div>
+      
+                <div class="col-4" style="margin: 10px; padding: 0px;">
+                    <a href="https://branham.fr/files/pdf_print/63/shp63-1226.pdf"
+                        style="text-decoration: none;">
+                        <div style="background-image: url(churchb1.jpg); background-size: 100%; background-repeat: no-repeat; width: 100%; height: 250px; font-family: 'Staatliches', cursive;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          width: 100%; border-radius: 30px;">
+                            <h5 style="text-align: center; background-color: #fcfcfc; border-radius: 30px; padding: 10px; border: 1px solid rgb(168, 159, 159);">L’ORDRE DE L’EGLISE.</h5>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-4" style="margin: 10px; padding: 0px;">
+                    <a href="http://www.cmpp.ch/serie3no11.pdf"
+                        style="text-decoration: none;">
+                        <div style="background-image: url(churchb3.jpg); background-size: 250%; background-repeat: no-repeat; width: 10%; height: 250px; font-family: 'Staatliches', cursive;
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: center;
+                    width: 100%; border-radius: 30px;">
+                            <h4
+                                style="text-align: center; color: #ffffff; background-color: #81e2f3; border-radius: 30px; padding: 10px; border: 1px solid rgb(201, 201, 228);">
+                                Celui qui est en vous</h4>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div>
+            <div class="row" style="margin: 10px; padding: 0px;">
+                <div class="col-7" style="margin: 10px; padding: 0px;">
+                    <a href="https://www.bibebook.com/files/ebook/libre/V2/segond_louis_-_la_sainte_bible.pdf"
+                        style="text-decoration: none;">
+                        <div style="background-image: url(Bible.jpg); background-size: 350%; background-repeat: no-repeat; height: 500px; font-family: 'Staatliches', cursive;
+            margin: 10px;
+            padding: 10px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            width: 100%; border-radius: 30px;">
+                            <h3
+                                style="text-align: center; background-color: rgb(216, 209, 209); color: rgb(0, 0, 0); border-radius: 30px; padding: 10px; border: 2px solid rgb(112, 111, 111);">
+                                La Sainte Bible</h3>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-4" style="margin: 10px; padding: 0px;">
+                    <div class="col-12" style="margin: 10px; padding: 0px;">
+                        <a href="https://branham.fr/files/books/expose.zip"
+                            style="text-decoration: none;">
+                            <div style="background-image: url(QA-Church-Age-Book-Cover.jpg); background-size: 300%; background-repeat: no-repeat; width: 100%; height: 250px; font-family: 'Staatliches', cursive;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          width: 100%; border-radius: 30px;">
+                                <h4 style="text-align: center;">Sept âges de l'Église</h4>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-12" style="margin: 10px; padding: 0px;">
+                        <a href="https://branham.fr/files/books/SeptSceaux_fr.zip"
+                            style="text-decoration: none;">
+                            <div style="background-image: url(Branham1.jpeg); background-size: 350%; background-repeat: no-repeat; width: 100%; height: 250px; font-family: 'Staatliches', cursive;
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: center;
+                    width: 100%; border-radius: 30px;">
+                                <h4
+                                    style="text-align: center; color: #ffffff; background-color: #81e2f3; border-radius: 30px; padding: 10px;">
+                                    Sept Sceaux</h4>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+      </div>
+      
+      <div class="d-lg-none" style="padding: 5px 0px 30px 0px; background-color: #c3f802;">
+        <h4
+            style="text-align: center; font-weight: bold; font-family: fantasy; padding: 10px; margin: 0px; background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); background-size: 200%; background-repeat: no-repeat;">
+            Books</h4>
+            <div>
+                <div class="row" style="margin: 10px; padding: 0px;">
+                    <div class="col-12" style="margin: 0px; padding: 0px;">
+                        <a href="https://branham.fr/files/pdf/52/shp52-0816.pdf"
+                            style="text-decoration: none;">
+                            <div style="background-image: url(John-Baptizing-Jesus.jpg); background-size: 250%; background-repeat: no-repeat; height: 150px; font-family: 'Staatliches', cursive;
+                margin: 0px;
+                padding: 0px;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                width: 100%; border-radius: 30px;">
+                                <h6
+                                    style="text-align: center; background-color: rgb(216, 209, 209); color: rgb(0, 0, 0); border-radius: 30px; padding: 10px; border: 2px solid rgb(112, 111, 111);">
+                                    La Foi</h6>
+                            </div>
+                        </a>
+                    </div>
+      
+                    <div class="col-12" style="margin: 0px; padding: 0px;">
+                        <a href="https://branham.fr/files/pdf_print/63/shp63-1226.pdf"
+                            style="text-decoration: none;">
+                            <div style="background-image: url(churchb1.jpg); background-size: 100%; background-repeat: no-repeat; width: 100%; height: 150px; font-family: 'Staatliches', cursive;
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+              justify-content: center;
+              width: 100%; border-radius: 30px;">
+                                <h5 style="text-align: center; background-color: #fcfcfc; border-radius: 30px; padding: 10px; border: 1px solid rgb(168, 159, 159);">L’ORDRE DE L’EGLISE</h5>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-12" style="margin: 0px; padding: 0px;">
+                        <a href="http://www.cmpp.ch/serie3no11.pdf"
+                            style="text-decoration: none;">
+                            <div style="background-image: url(churchb3.jpg); background-size: 250%; background-repeat: no-repeat; width: 10%; height: 150px; font-family: 'Staatliches', cursive;
+                        display: flex;
+                        flex-direction: column;
+                        align-items: center;
+                        justify-content: center;
+                        width: 100%; border-radius: 30px;">
+                                <h4
+                                    style="text-align: center; color: #ffffff; background-color: #81e2f3; border-radius: 30px; padding: 10px; border: 1px solid rgb(201, 201, 228);">
+                                    Celui qui est en vous</h4>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div>
+      
+      
+        <div class="row" style="margin: 0px; padding: 0px;">
+            <div class="col-12" style="margin: 0px; padding: 0px;">
+                <a href="https://www.bibebook.com/files/ebook/libre/V2/segond_louis_-_la_sainte_bible.pdf"
+                    style="text-decoration: none;">
+                    <div style="background-image: url(Bible.jpg); background-size: 350%; background-repeat: no-repeat; height: 300px; font-family: 'Staatliches', cursive;
+            margin-top: 10px;
+            padding: 0px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            width: 100%; border-radius: 30px;">
+                        <h1
+                            style="text-align: center; background-color: rgb(216, 204, 204); color: rgb(0, 0, 0); border-radius: 30px; padding: 10px; border: 2px solid rgb(112, 111, 111);">
+                            La Sainte Bible</h1>
+                    </div>
+                </a>
+            </div>
+            <div class="col-12" style="margin: 0px; padding: 0px;">
+                <a href="https://branham.fr/files/books/expose.zip"
+                    style="text-decoration: none;">
+                    <div style="background-image: url(QA-Church-Age-Book-Cover.jpg); background-size: 100%; background-repeat: no-repeat; width: 100%; height: 250px; font-family: 'Staatliches', cursive;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          width: 100%; border-radius: 30px; margin-top: 10px;">
+                        <h4 style="text-align: center;">Sept âges de l'Église</h4>
+                    </div>
+                </a>
+            </div>
+            <div class="col-12" style="margin: 0px; padding: 0px;">
+                <a href="https://branham.fr/files/books/SeptSceaux_fr.zip"
+                    style="text-decoration: none;">
+                    <div style="background-image: url(Branham1.jpeg); background-size: 100%; background-repeat: no-repeat; width: 100%; height: 250px; font-family: 'Staatliches', cursive;
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: center;
+                    width: 100%; border-radius: 30px; margin-top: 10px;">
+                        <h4
+                            style="text-align: center; color: #ffffff; background-color: #9ef1f1; border-radius: 30px; padding: 10px;">
+                            Sept Sceaux</h4>
+                    </div>
+                </a>
+            </div>
+        </div>
+      </div>
+      </div>
+      
+      
+      
+      <div style="background-color: rgb(128, 224, 236); padding-bottom: 30px;">
+        <h4
+            style="text-align: center; font-weight: bold; font-family: fantasy; padding: 10px; margin: 0px; background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); background-size: 200%; background-repeat: no-repeat;">
+            Audios(mp3)</h4>
+        <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <div class="row" style="margin: 0%; padding: 0px;">
+                        <div class="col-4" style="margin: 0px; padding: 0px;">
+                            <a href="https://branham.fr/mp3/47-0412.mp3" style="text-decoration: none;"><img
+                                    src="abstract-cloud-azure-haze_23-2148102101.avif"
+                                    style="width: 100%; height: 250px;">
+                                <h5
+                                    style="text-align: center; color: rgb(255, 255, 255); padding: 10px; background-image: url(abstract-cloud-azure-haze_23-2148102101.avif);">
+                                    La Foi Est l'Assurance</h5>
+                            </a>
+                        </div>
+                        <div class="col-4" style="margin: 0px; padding: 0px;">
+                            <a href="https://branham.fr/mp3/49-1225.mp3" style="text-decoration: none;"><img
+                                    src="fire-ice-concept-background-with-fog-godray-3d_115548-21.avif"
+                                    style="width: 100%; height: 250px;">
+                                <h5
+                                    style="text-align: center; color: rgb(255, 255, 255); padding: 10px; background-image: url(fire-ice-concept-background-with-fog-godray-3d_115548-21.avif);">
+                                    Divinité De Jésus-Christ</h5>
+                            </a>
+                        </div>
+                        <div class="col-4" style="margin: 0px; padding: 0px;">
+                            <a href="https://branham.fr/mp3/53-0403.mp3" style="text-decoration: none;"><img
+                                    src="low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif"
+                                    style="width: 100%; height: 250px;">
+                                <h5
+                                    style="text-align: center; color: rgb(255, 255, 255); padding: 10px; background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif);">
+                                    La cruauté du péché</h5>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="row" style="margin: 0%; padding: 0px;">
+                        <div class="col-4" style="margin: 0px; padding: 0px;">
+                            <a href="https://branham.fr/mp3/54-1231.mp3"
+                                style="text-decoration: none;"><img src="churchb4.jpg"
+                                    style="width: 100%; height: 250px;">
+                                <h5
+                                    style="text-align: center; color: rgb(255, 255, 255); padding: 10px; background-image: url(churchb4.jpg);">
+                                    La Vie Eternelle</h5>
+                            </a>
+                        </div>
+                        <div class="col-4" style="margin: 0px; padding: 0px;">
+                            <a href="https://branham.fr/mp3/58-0326.mp3"
+                                style="text-decoration: none;"><img src="shining-blue-flow-background_1182-1836.avif"
+                                    style="width: 100%; height: 250px;">
+                                <h5
+                                    style="text-align: center; color: rgb(3, 3, 3); padding: 10px; background-image: url(shining-blue-flow-background_1182-1836.avif);">
+                                    Unis sous une seule tête</h5>
+                            </a>
+                        </div>
+                        <div class="col-4" style="margin: 0px; padding: 0px;" style="text-decoration: none;">
+                            <a href="https://branham.fr/mp3/60-0403.mp3" style="text-decoration: none;"><img
+                                    src="low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif"
+                                    style="width: 200%; height: 250px; ;">
+                                <h5
+                                    style="text-align: center; color: rgb(255, 255, 255); padding: 10px; background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif);">
+                                    Les aigles de Dieu</h5>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="row" style="margin: 0%; padding: 0px;">
+                        <div class="col-4" style="margin: 0px; padding: 0px;">
+                            <a href="https://branham.fr/mp3/60-0712.mp3" style="text-decoration: none;"><img
+                                    src="John-Baptizing-Jesus.jpg" style="width: 300%; height: 250px;">
+                                <h5
+                                    style="text-align: center; color: rgb(3, 3, 3); padding: 10px; background-image: url(John-Baptizing-Jesus.jpg);">
+                                    Ecoutez-le (adoption)</h5>
+                            </a>
+                        </div>
+                        <div class="col-4" style="margin: 0px; padding: 0px;">
+                            <a href="https://branham.fr/mp3/61-0216.mp3"
+                                style="text-decoration: none;"><img
+                                    src="picture of jesus christ before his ministry .webp"
+                                    style="width: 900%; height: 250px;">
+                                <h5
+                                    style="text-align: center; color: rgb(0, 0, 0); padding: 10px; background-image: url(shining-blue-flow-background_1182-1836.avif);">
+                                    Le Sceau de Dieu</h5>
+                            </a>
+                        </div>
+                        <div class="col-4" style="margin: 0px; padding: 0px;">
+                            <a href="https://branham.fr/mp3/62-0128M.mp3"
+                                style="text-decoration: none;"><img src="Bible.jpg" style="width: 300%; height: 250px;">
+                                <h5
+                                    style="text-align: center; color: rgb(3, 3, 3); padding: 10px; background-image: url(Bible.jpg);">
+                                    L'Incrédulité N'Arrête Pas Dieu</h5>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying"
+                data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying"
+                data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+      </div>
+      
+      
+      <div>
+        <h4
+            style="text-align: center; font-weight: bold; font-family: fantasy; padding: 10px; margin: 0px; background-image: url(crosses-that-open-bible-wooden-table_1150-17653.avif); background-size: 200%; background-repeat: no-repeat;">
+            Vidéos</h4>
+      
+      <div id="carouselExampleIndicators" class="carousel slide">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="d-block w-100">
+            <div class="row" style="margin: 0%; padding: 0px;">
+                        <div class="col-6" style="margin: 0px; padding: 0px;">
+                            <iframe style="width: 100%; height: 350px;"
+                            src="https://www.youtube.com/embed/OnVNjjGV7gM?si=-zXgpiKSjMW_U4J5"
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                        </div>
+                        <div class="col-6" style="margin: 0px; padding: 0px;">
+                            <iframe style="width: 100%; height: 350px;"
+                            src="https://www.youtube.com/embed/MVf9KsZvz0o?si=353-hSQbeLLnhhdU" 
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                        </div>
+                
+                    </div>
+                    </div>
+          </div>
+          <div class="carousel-item">
+            <div class="d-block w-100">
+            <div class="row" style="margin: 0%; padding: 0px;">
+                        <div class="col-6" style="margin: 0px; padding: 0px;">
+                            <iframe style="width: 100%; height: 350px;"
+                            src="https://www.youtube.com/embed/VouralXCSt8?si=2Adk6dVjgzaq3Wm3" 
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                        </div>
+                        <div class="col-6" style="margin: 0px; padding: 0px;">
+                            <iframe style="width: 100%; height: 350px;"
+                            src="https://www.youtube.com/embed/c7MgLz8fmvI?si=_7n38wLslI-DWGCb"
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    </div>
+          </div>
+          <div class="carousel-item">
+            <div class="d-block w-100">
+            <div class="row" style="margin: 0%; padding: 0px;">
+                        <div class="col-6" style="margin: 0px; padding: 0px;">
+                            <iframe style="width: 100%; height: 350px;"
+                            src="https://www.youtube.com/embed/9si_w0yVJZs?si=9HNlBczBl_Pig8F6"
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                        </div>
+                        <div class="col-6" style="margin: 0px; padding: 0px;">
+                            <iframe style="width: 100%; height: 350px;"
+                            src="https://www.youtube.com/embed/VUVemAcYHso?si=Se90bABDUwhuGumz" 
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    </div>
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+      </div>
+
+
+
+<div style="background-image: url(low-angle-view-cross-against-clear-blue-sky_1048944-29521241.avif); margin: 0px;">
+  <ul class="nav justify-content-center">
+      <li class="nav-item">
+        <a class="nav-link active" aria-current="page" href="indexf.html" style="cursor: pointer; text-decoration: none;">Acceuil</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" onclick="churchAboutF()" style="cursor: pointer;">À propos</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" onclick="churchContactF()" style="cursor: pointer;">Contact</a>
+      </li>
+    </ul>
+  </div>`;
 };
