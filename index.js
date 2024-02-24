@@ -1196,7 +1196,7 @@ function ChurchMaterialsF(){
                 <div class="col-7" style="margin: 10px; padding: 0px;">
                     <a href="https://www.bibebook.com/files/ebook/libre/V2/segond_louis_-_la_sainte_bible.pdf"
                         style="text-decoration: none;">
-                        <div style="background-image: url(Bible.jpg); background-size: 350%; background-repeat: no-repeat; height: 500px; font-family: 'Staatliches', cursive;
+                        <div style="background-image: url(Bible.jpg); background-size: 100%; background-repeat: no-repeat; height: 500px; font-family: 'Staatliches', cursive;
             margin: 10px;
             padding: 10px;
             display: flex;
@@ -1305,7 +1305,7 @@ function ChurchMaterialsF(){
             <div class="col-12" style="margin: 0px; padding: 0px;">
                 <a href="https://www.bibebook.com/files/ebook/libre/V2/segond_louis_-_la_sainte_bible.pdf"
                     style="text-decoration: none;">
-                    <div style="background-image: url(Bible.jpg); background-size: 350%; background-repeat: no-repeat; height: 300px; font-family: 'Staatliches', cursive;
+                    <div style="background-image: url(Bible.jpg); background-size: 100%; background-repeat: no-repeat; height: 300px; font-family: 'Staatliches', cursive;
             margin-top: 10px;
             padding: 0px;
             display: flex;
