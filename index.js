@@ -318,7 +318,7 @@ function churchAbout(){
                 </div>`};
 
 function countdown() {
-                  const targetDate = new Date("2024-02-25 10:00:00 GMT-0500");
+                  const targetDate = new Date("2024-03-03 10:00:00 GMT-0500");
                   const now = new Date();
                 
                   const difference = targetDate - now;
